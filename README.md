@@ -1,5 +1,7 @@
 # NotePad
 
+# This project is part of the curriculum of a Codaert Academy Course on JavaScript Web Development and has been given to a student of the course in order to test his prominence in the course of study so far.
+
 Building an online notepad with Cloud firestore
 
 
@@ -23,3 +25,5 @@ Rules
 ----------------------------------------------------------------------------------
 - You are free to use any assisting plugin to build this, but you are not allowed to use any framework (angular, react, vue etc).
 - All you code pages will be committed to this repo...but you are free to fork this repo in your own github account.
+- Under no circumstance will you update this readMe file.
+- The duration of this project is 2 weeks
