@@ -5,7 +5,7 @@
 Building an online notepad with Cloud firestore
 
 
-Using the tools bootstrap, sass and Cloud Firestore, design a function online notepad. 
+Using the tools bootstrap, sass and Cloud Firestore, design a functioning online notepad. 
 
 Features
 --------------------------------------------------------------------------------
